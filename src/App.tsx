@@ -511,7 +511,7 @@ export default function App() {
           </div>
           <div className="w-full md:w-1/2 h-[60vh] rounded-2xl overflow-hidden shadow-2xl">
             <img 
-              src="public/images.jpg" 
+              src="/images.jpg" 
               className="w-full h-full object-cover"
               alt="Bedroom"
               referrerPolicy="no-referrer"
@@ -529,7 +529,7 @@ export default function App() {
           </div>
           <div className="w-full md:w-1/2 h-[60vh] rounded-2xl overflow-hidden shadow-2xl">
             <img 
-              src="public/images (1).jpg" 
+              src="/images (1).jpg" 
               className="w-full h-full object-cover"
               alt="Kitchen"
               referrerPolicy="no-referrer"
